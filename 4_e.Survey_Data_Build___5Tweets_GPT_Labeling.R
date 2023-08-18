@@ -106,9 +106,9 @@ library(openai)
 library(R.utils)
 
 # place API key in the environment
-# openAI API Key: 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
+# openAI API Key: ...
 Sys.setenv(
-  OPENAI_API_KEY = "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"
+  OPENAI_API_KEY = "INSERT_KEY"
 )
 
 # define demographics we will ask to label
