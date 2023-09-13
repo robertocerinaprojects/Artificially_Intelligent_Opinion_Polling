@@ -1,6 +1,6 @@
 # Artificially Intelligent Opinion Polling
 
-This repository contains the replication code (*R* scripts + *stan* scripts) for the paper.  
+This repository contains the replication code (`R` scripts + `stan` scripts) for the paper.  
  
 If wishing to replicate results of Simulation Study, see R scripts 1.a and 1.b. 
 
